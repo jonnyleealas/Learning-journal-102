@@ -18,6 +18,8 @@ Maybe something like : x= turtle
 
 We should be able to say. x+y = Turtle eats 
 
+Roger also spoke about Java having it's own code that won't make sense to us, so we should just except that it works. 
+
 Last thing I learned is that you must be sure to avoid typing errors. My code didn't work properly, because I mis-spelled a word.
 
 
