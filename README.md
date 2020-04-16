@@ -30,3 +30,16 @@ Threatened by the success of others | Inspired by the success of others
 
 Asohka once said: 
 > "So this is where the fun begins."  
+
+
+### Table of Contents
+[Class 1 Journal Growth Mindset](journals/class1.md)
+[Class 2 Journal Reflection](journals/class2.md)
+[Class 3 Journal GitHub](journals/class3.md)
+[Class 4 Journal HTML](journals/class4.md)
+[Class 5 Journal CSS](journals/class5.md)
+[Class 6 Journal Jaca Script](journals/class6.md)
+[Class 7 Journal](journals/class7.md)
+[Class 8 Journal](journals/class8.md)
+[Class 9 Journal](journals/class9.md)
+[Class 10 Journal](journals/class10.md)
