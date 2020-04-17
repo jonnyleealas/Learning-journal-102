@@ -41,6 +41,6 @@ Asohka once said:
 - [Class 6 Journal Java Script](journals/class6.md)
 - [Class 6 Journal Java 6b](journals/class6b.md)
 - [Class 7 Journal var/function/envoke](journals/class7.md)
-- [Class 8 Journal](journals/class8.md)
+- [Class 8 Journal Operator/Loops](journals/class8.md)
 - [Class 9 Journal](journals/class9.md)
 - [Class 10 Journal](journals/class10.md)
