@@ -1,4 +1,4 @@
-# Reading Notes
+# Learning Journal 102
 ## Code 102 Learning Journal
 ## Hi, my name is Jonathon Lee.
 Today I learned about a usefull tool called Growth Mindset.
